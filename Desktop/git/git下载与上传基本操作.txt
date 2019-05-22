@@ -1,0 +1,33 @@
+确定git和GitHub已连接：
+1、git init
+输入之后文件夹会有一个“.git”的文件夹 此文件夹是隐藏属性，单击左上部分查看把隐藏的文件夹显示出来。
+2、 git remote add origin xxxxxx(github地址)
+若出错查阅以下网址
+https://blog.csdn.net/dengjianqiang2011/article/details/9260435
+3、git pull origin master
+
+即可在github上拿到文件
+备注：以上操作如果均不行，把.git文件夹删除重新操作
+
+如何将本地的文件推到github上：
+
+1、git add .
+备注：add . 的意思是该目录下全部文件
+输入git add . 之后  文件就保存在了暂存区
+
+2、$ git commit -m“备注区”
+备注“-m ‘’”的作用是将本次上传的文件做一个备注。即可通过备注快速查找本次上传的文件
+输入git commit 后 文件就提交到了文件区
+
+3、$ git push origin master
+有时需要提供该仓库的用户名及密码  如实填写即可
+
+将github代码拉进指定目录：
+
+1、在制定目录空白处右键git Bash
+
+2、输入命令行   git clone xxxx（github地址）
+备注：假如有多个文件夹  进入子目录后输入git checkout  xxx（master/Branch里的多文件的文件名）即可获取文件
+
+更多了解进入廖雪峰的博客
+https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000

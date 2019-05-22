@@ -1,0 +1,46 @@
+﻿运行本项目：
+1、下载node.js(一键傻瓜式安装)可以百度查询如何安装
+
+
+2、安装好，管理员身份打开DAO窗口 检查  输入： 
+$ node -v
+$ npm -v
+检查node跟npm的版本
+
+在安装目录C:\Program Files\nodejs下创建两个文件夹node_global和node_cache
+3、新建文件后在执行命令行cmd，然后执行下面两个语句
+
+        npm config set prefix "node_global的目录"
+
+        npm config set cache "node_cache的目录"
+
+
+
+4、安装cnpm
+$ npm install -g cnpm --registry=http://registry.npm.taobao.org
+
+
+5、安装webpack
+$ npm install webpack -g
+
+
+6、安装vue-cli
+$ cnpm install vue-cli -g
+
+
+7、 cd $项目
+
+
+8、$ npm install ==> npm 不行？  试试cnpm install
+如原有项目中有node_modules文件夹，删除项目下的node_modules，
+在你的项目目录下，
+重新执行npm install，这会重新生成node_modules，
+
+9、npm run build
+
+
+10、npm run dev	
+
+
+
+

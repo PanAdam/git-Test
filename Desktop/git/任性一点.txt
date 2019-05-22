@@ -1,0 +1,53 @@
+1、宝塔
+Bt-Panel: http://39.98.181.186:8888
+用户名: w9slmwc4
+密码: 9bf3129b
+
+2、服务器
+39.98.181.186(公)
+172.26.41.136(私有)
+用户名:root
+密码:qweTriyu129741278
+
+3、阿里云
+用户名:puhuishequjinfu
+密码:phsqjf20180803
+
+4、数据库
+用户名:root
+密码:qriyu129741278
+
+5、微信开放平台
+AppID: wx8e840750c7cbc99a
+AppSecret: fa7a6ad6f89a3e171093b6dd8304819a
+
+iOS平台
+Bundle ID：com.xinedlzf.app
+测试版本Bundle ID：com.xinedlzf.app
+
+Android平台
+应用签名：859924b05c82f5c4570a7249c70b622c
+包名：com.rxinyidai.app
+
+6、QQ开放平台
+APP ID：101541758
+APP Key：63a87aac6bf8765d6a305b21ef3df524
+
+Android平台 :
+应用包名 : com.xinedlzf.app
+应用签名 : 859924b05c82f5c4570a7249c70b622c
+IOS平台 :
+Bundle ID: com.xinedlzf.app
+URL Schema : 8b7929994261314b871782a3d6e94
+AppStore ID: 390860325
+
+7、短信
+API KEY：550a7fd1b8b1ee6e41a93fec8e68b739
+签名：任性一点
+
+8、征信
+key:577a77924a24116328a875b1ebc6b64b
+
+9、友盟
+Android唯一Appkey为:5c30bf94f1f5566e11001067
+iPhone唯一Appkey为：5c30c006b465f5ff870005d1
